@@ -1,2 +1,2 @@
 # htmlcss.test
-this is test repo to put my html cssproject
+this is test repo to put my html css project
